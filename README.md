@@ -22,6 +22,8 @@ In a notebook, you can run a cell by clicking in it and pressing `shift-enter` o
 
 <br><br><br>
 
+---
+
 > [!NOTE]
 > The files used to create this tutorial were once hosted in AWS, but now they've moved to Zenodo.
 >
