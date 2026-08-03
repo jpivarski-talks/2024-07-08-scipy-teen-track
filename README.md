@@ -19,3 +19,10 @@ In JupyterLite, the slides and notebooks can all be found in the left-bar (which
 In a notebook, you can run a cell by clicking in it and pressing `shift-enter` or `control-enter` (or `command-enter` on Mac). If your Python session dies or needs to be restarted, select the last cell you were working on and "Restart Kernel and Run up to Selected Cell" from the "Kernel" menu.
 
 <img src="https://github.com/jpivarski-talks/2024-07-08-scipy-teen-track/assets/1852447/4fcbd934-da63-433b-8eb7-5a5a1f8737e0" width="400">
+
+<br><br><br>
+
+> [!NOTE]
+> The files used to create this tutorial were once hosted in AWS, but now they've moved to Zenodo.
+>
+> See [https://zenodo.org/records/21777842](https://zenodo.org/records/21777842) for these files, if you need them.
